@@ -22,7 +22,7 @@
 ### Option 1: Run Locally
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Saimohith2402/VolGaurd.git](https://github.com/Saimohith2402/VolGaurd.git)
+    git clone [https://github.com/Saimohith2402/VolGuard.git](https://github.com/Saimohith2402/VolGuard.git)
     cd VolGaurd
     ```
 
@@ -33,11 +33,11 @@
 
 3.  **Launch the Notebook**
     ```bash
-    jupyter notebook VolGaurd.ipynb
+    jupyter notebook VolGuard.ipynb
     ```
 
 ### Option 2: Google Colab
-Since the file was created in Colab, you can simply upload `VolGaurd.ipynb` to [Google Colab](https://colab.research.google.com/) and run the cells sequentially.
+Since the file was created in Colab, you can simply upload `VolGuard.ipynb` to [Google Colab](https://colab.research.google.com/) and run the cells sequentially.
 
 ## 📊 Methodology
 
